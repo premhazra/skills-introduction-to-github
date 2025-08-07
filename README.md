@@ -1,5 +1,5 @@
 <header>
-
+This is a clone of GitHub’s official ‘Introduction to GitHub’ course for my own learning. I followed and completed the exercises to understand branching, commits, and pull requests.
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
